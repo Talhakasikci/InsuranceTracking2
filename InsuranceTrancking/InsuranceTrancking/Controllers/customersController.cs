@@ -14,6 +14,7 @@ namespace InsuranceTrancking.Controllers
         private Model1 db = new Model1();
 
         // GET: customers
+       
         public ActionResult Index()
         {
             return View(db.customers.ToList());
@@ -35,6 +36,7 @@ namespace InsuranceTrancking.Controllers
         }
 
         // GET: customers/Create
+        
         public ActionResult Create()
         {
             return View();
@@ -44,7 +46,7 @@ namespace InsuranceTrancking.Controllers
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
-
+        
         public ActionResult Create([Bind(Include = "CustomerID,FirstName,LastName,PhoneNumber,Email,Address,IsAdmin")] customers customers)
         {
             if (ModelState.IsValid)
@@ -61,6 +63,7 @@ namespace InsuranceTrancking.Controllers
         //    return RedirectToAction("Index");
         //}
         [HttpPost]
+        
         public ActionResult CreateWithVehicle(customers customer, vehicles vehicles, insurance_policies insurance_Policies)
         {
             if (ModelState.IsValid)
@@ -211,13 +214,6 @@ namespace InsuranceTrancking.Controllers
         }
 
 
-        protected override void Dispose(bool disposing)
-        {
-            if (disposing)
-            {
-                db.Dispose();
-            }
-            base.Dispose(disposing);
-        }
+       
     }
 }

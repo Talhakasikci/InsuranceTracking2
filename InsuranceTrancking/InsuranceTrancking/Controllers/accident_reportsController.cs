@@ -39,9 +39,10 @@ namespace InsuranceTrancking.Controllers
         // GET: accident_reports/Create
         public ActionResult Create()
         {
-            ViewBag.PolicyID = new SelectList(db.insurance_policies, "PolicyID", "PolicyNumber");
-            ViewBag.RepairShopID = new SelectList(db.repair_shops, "ShopID", "ShopName");
-            ViewBag.VehicleID = new SelectList(db.vehicles, "VehicleID", "Brand");
+            ViewBag.InsurancePolicies = db.insurance_policies.ToList() ?? new List<InsuranceTrancking.Models.insurance_policies>();
+            ViewBag.RepairShop = db.repair_shops.ToList() ?? new List<InsuranceTrancking.Models.repair_shops>();
+            ViewBag.Vehicles = db.vehicles.ToList() ?? new List<InsuranceTrancking.Models.vehicles>();
+            
             return View();
         }
 
@@ -59,9 +60,9 @@ namespace InsuranceTrancking.Controllers
                 return RedirectToAction("Index");
             }
 
-            ViewBag.PolicyID = new SelectList(db.insurance_policies, "PolicyID", "PolicyNumber", accident_reports.PolicyID);
-            ViewBag.RepairShopID = new SelectList(db.repair_shops, "ShopID", "ShopName", accident_reports.RepairShopID);
-            ViewBag.VehicleID = new SelectList(db.vehicles, "VehicleID", "Brand", accident_reports.VehicleID);
+            ViewBag.InsurancePolicies = db.insurance_policies.ToList() ?? new List<InsuranceTrancking.Models.insurance_policies>();
+            ViewBag.RepairShop = db.repair_shops.ToList() ?? new List<InsuranceTrancking.Models.repair_shops>();
+            ViewBag.Vehicles = db.vehicles.ToList() ?? new List<InsuranceTrancking.Models.vehicles>();
             return View(accident_reports);
         }
 
@@ -77,9 +78,12 @@ namespace InsuranceTrancking.Controllers
             {
                 return HttpNotFound();
             }
-            ViewBag.PolicyID = new SelectList(db.insurance_policies, "PolicyID", "PolicyNumber", accident_reports.PolicyID);
-            ViewBag.RepairShopID = new SelectList(db.repair_shops, "ShopID", "ShopName", accident_reports.RepairShopID);
-            ViewBag.VehicleID = new SelectList(db.vehicles, "VehicleID", "Brand", accident_reports.VehicleID);
+            ViewBag.InsurancePolicies = db.insurance_policies.ToList();
+            ViewBag.RepairShop = db.repair_shops.ToList();
+            ViewBag.Vehicles = db.vehicles.ToList();
+
+
+            
             return View(accident_reports);
         }
 
@@ -96,9 +100,9 @@ namespace InsuranceTrancking.Controllers
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
-            ViewBag.PolicyID = new SelectList(db.insurance_policies, "PolicyID", "PolicyNumber", accident_reports.PolicyID);
-            ViewBag.RepairShopID = new SelectList(db.repair_shops, "ShopID", "ShopName", accident_reports.RepairShopID);
-            ViewBag.VehicleID = new SelectList(db.vehicles, "VehicleID", "Brand", accident_reports.VehicleID);
+            ViewBag.InsurancePolicies = db.insurance_policies.ToList();
+            ViewBag.RepairShop = db.repair_shops.ToList();
+            ViewBag.Vehicles = db.vehicles.ToList();
             return View(accident_reports);
         }
 

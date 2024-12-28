@@ -3,75 +3,111 @@
   "WorkspaceRootPath": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\views\\login\\loginpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\login\\loginpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\views\\vehicles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\vehicles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\views\\insurance_policies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\insurance_policies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\views\\accident_reports\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\accident_reports\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\views\\vehicles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\vehicles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\views\\insurance_policies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\insurance_policies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\views\\accident_reports\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\views\\accident_reports\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\accident_reports\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\views\\insurance_policies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\insurance_policies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\models\\accident_reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\models\\accident_reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\models\\insurance_policies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\models\\insurance_policies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\controllers\\accident_reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\controllers\\accident_reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\models\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\models\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\views\\vehicles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\vehicles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\models\\repair_shops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\models\\repair_shops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\models\\insurance_policies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\models\\insurance_policies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\models\\insurance_companies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\models\\insurance_companies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\views\\insurance_policies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\insurance_policies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\controllers\\insurance_policiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\controllers\\insurance_policiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\views\\insurance_policies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\views\\login\\loginpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\login\\loginpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\views\\vehicles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\vehicles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\views\\insurance_policies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\insurance_policies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\views\\accident_reports\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\accident_reports\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\views\\vehicles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\vehicles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\views\\insurance_policies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\insurance_policies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\views\\vehicles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\vehicles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\views\\insurance_policies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\insurance_policies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -79,68 +115,56 @@
       "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\views\\vehicles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\views\\vehicles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\vehicles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\views\\accident_reports\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\views\\accident_reports\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\accident_reports\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\views\\accident_reports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\views\\accident_reports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\accident_reports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\views\\vehicles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\views\\vehicles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\vehicles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\views\\insurance_policies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\views\\insurance_policies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\insurance_policies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\views\\accident_reports\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\views\\accident_reports\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\accident_reports\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\content\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\content\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\content\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\content\\homepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\content\\homepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\content\\homepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\talha\\source\\repos\\insurancetrancking\\insurancetrancking\\controllers\\accident_reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\controllers\\accident_reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\insurancetrancking\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -149,237 +173,133 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 383,
-          "SelectedChildIndex": 0,
+          "DockedHeight": 339,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Loginpage.cshtml",
-              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\Login\\Loginpage.cshtml",
-              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\Login\\Loginpage.cshtml",
-              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\Login\\Loginpage.cshtml",
-              "RelativeToolTip": "InsuranceTrancking\\Views\\Login\\Loginpage.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAE8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T19:03:27.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "InsuranceTrancking\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "InsuranceTrancking\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAA1wDEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T19:03:11.688Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Create.cshtml",
-              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\insurance_policies\\Create.cshtml",
-              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Create.cshtml",
-              "RelativeToolTip": "InsuranceTrancking\\Views\\insurance_policies\\Create.cshtml",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAqwG0AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T17:33:19.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\vehicles\\Create.cshtml",
-              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\vehicles\\Create.cshtml",
-              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\vehicles\\Create.cshtml",
-              "RelativeToolTip": "InsuranceTrancking\\Views\\vehicles\\Create.cshtml",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAEoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T17:33:56.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "InsuranceTrancking\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T17:04:28.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\accident_reports\\Edit.cshtml",
-              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\accident_reports\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\accident_reports\\Edit.cshtml",
-              "RelativeToolTip": "InsuranceTrancking\\Views\\accident_reports\\Edit.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAADkAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T17:13:38.918Z",
+              "Title": "insurance_companies.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Models\\insurance_companies.cs",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Models\\insurance_companies.cs",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Models\\insurance_companies.cs",
+              "RelativeToolTip": "InsuranceTrancking\\Models\\insurance_companies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T20:15:19.639Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\customers\\Edit.cshtml",
-              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\customers\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\customers\\Edit.cshtml",
-              "RelativeToolTip": "InsuranceTrancking\\Views\\customers\\Edit.cshtml",
-              "ViewState": "AQIAABkAAAAAAAAAAAAIwEAAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T17:12:15.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Edit.cshtml",
-              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\insurance_policies\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Edit.cshtml",
-              "RelativeToolTip": "InsuranceTrancking\\Views\\insurance_policies\\Edit.cshtml",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAIwGcAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T17:33:10.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\vehicles\\Edit.cshtml",
-              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\vehicles\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\vehicles\\Edit.cshtml",
-              "RelativeToolTip": "InsuranceTrancking\\Views\\vehicles\\Edit.cshtml",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAEIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T17:09:30.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "InsuranceTrancking\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T17:05:48.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\accident_reports\\Create.cshtml",
-              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\accident_reports\\Create.cshtml",
-              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\accident_reports\\Create.cshtml",
-              "RelativeToolTip": "InsuranceTrancking\\Views\\accident_reports\\Create.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAADkAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T17:17:36.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\customers\\Create.cshtml",
-              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\customers\\Create.cshtml",
-              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\customers\\Create.cshtml",
-              "RelativeToolTip": "InsuranceTrancking\\Views\\customers\\Create.cshtml",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAIwHMAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T19:04:37.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "insurance_policies.cs",
               "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Models\\insurance_policies.cs",
               "RelativeDocumentMoniker": "InsuranceTrancking\\Models\\insurance_policies.cs",
               "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Models\\insurance_policies.cs",
               "RelativeToolTip": "InsuranceTrancking\\Models\\insurance_policies.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowBsAAAAjAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAnwBIAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T19:24:22.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\accident_reports\\Create.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\accident_reports\\Create.cshtml",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\accident_reports\\Create.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\accident_reports\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:17:36.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "accident_reportsController.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\accident_reportsController.cs",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Controllers\\accident_reportsController.cs",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\accident_reportsController.cs",
+              "RelativeToolTip": "InsuranceTrancking\\Controllers\\accident_reportsController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwDoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T16:50:42.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Create.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\insurance_policies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Create.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\insurance_policies\\Create.cshtml",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAIwIsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:33:19.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "vehicles.cs",
               "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Models\\vehicles.cs",
               "RelativeDocumentMoniker": "InsuranceTrancking\\Models\\vehicles.cs",
               "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Models\\vehicles.cs",
               "RelativeToolTip": "InsuranceTrancking\\Models\\vehicles.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB8AAAAgAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwB8AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T12:32:00.047Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Index.cshtml",
-              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\insurance_policies\\Index.cshtml",
-              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Index.cshtml",
-              "RelativeToolTip": "InsuranceTrancking\\Views\\insurance_policies\\Index.cshtml",
-              "ViewState": "AQIAABEAAAAAAAAAAAAIwCIAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T17:12:55.893Z",
+              "DocumentIndex": 1,
+              "Title": "accident_reports.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Models\\accident_reports.cs",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Models\\accident_reports.cs",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Models\\accident_reports.cs",
+              "RelativeToolTip": "InsuranceTrancking\\Models\\accident_reports.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T19:46:56.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\vehicles\\Index.cshtml",
-              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\vehicles\\Index.cshtml",
-              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\vehicles\\Index.cshtml",
-              "RelativeToolTip": "InsuranceTrancking\\Views\\vehicles\\Index.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAABeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T17:13:09.468Z",
+              "DocumentIndex": 4,
+              "Title": "repair_shops.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Models\\repair_shops.cs",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Models\\repair_shops.cs",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Models\\repair_shops.cs",
+              "RelativeToolTip": "InsuranceTrancking\\Models\\repair_shops.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T20:15:28.407Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Details.cshtml",
-              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\insurance_policies\\Details.cshtml",
-              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Details.cshtml",
-              "RelativeToolTip": "InsuranceTrancking\\Views\\insurance_policies\\Details.cshtml",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAB8AAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T17:14:18.469Z",
+              "DocumentIndex": 10,
+              "Title": "insurance_policiesController.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\insurance_policiesController.cs",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Controllers\\insurance_policiesController.cs",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\insurance_policiesController.cs",
+              "RelativeToolTip": "InsuranceTrancking\\Controllers\\insurance_policiesController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwFEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:24:30.059Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 5,
               "Title": "Model1.cs",
               "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Models\\Model1.cs",
               "RelativeDocumentMoniker": "InsuranceTrancking\\Models\\Model1.cs",
@@ -392,20 +312,218 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "insurance_policiesController.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\insurance_policiesController.cs",
-              "RelativeDocumentMoniker": "InsuranceTrancking\\Controllers\\insurance_policiesController.cs",
-              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\insurance_policiesController.cs",
-              "RelativeToolTip": "InsuranceTrancking\\Controllers\\insurance_policiesController.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCsAAAAMAAAA",
+              "DocumentIndex": 9,
+              "Title": "customersController.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\customersController.cs",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Controllers\\customersController.cs",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\customersController.cs",
+              "RelativeToolTip": "InsuranceTrancking\\Controllers\\customersController.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAADwv9gAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T19:24:30.059Z",
+              "WhenOpened": "2024-12-27T22:27:03.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\customers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\customers\\Create.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\customers\\Create.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwHMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T19:04:37.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\accident_reports\\Edit.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\accident_reports\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\accident_reports\\Edit.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\accident_reports\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:13:38.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Loginpage.cshtml",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\Login\\Loginpage.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\Login\\Loginpage.cshtml",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\Login\\Loginpage.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\Login\\Loginpage.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T19:03:27.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "InsuranceTrancking\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T19:03:11.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T19:22:23.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\Web.config",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\Web.config",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-28T19:27:49.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Web.config",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Web.config",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Web.config",
+              "RelativeToolTip": "InsuranceTrancking\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-28T19:28:27.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\customers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\customers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\customers\\Edit.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\customers\\Edit.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAIwEAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:12:15.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\insurance_policies\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Edit.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\insurance_policies\\Edit.cshtml",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwGcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:33:10.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\vehicles\\Create.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\vehicles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\vehicles\\Create.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\vehicles\\Create.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:33:56.489Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:04:28.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\vehicles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\vehicles\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\vehicles\\Edit.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\vehicles\\Edit.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:09:30.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:05:48.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Index.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\insurance_policies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Index.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\insurance_policies\\Index.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwCIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:12:55.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\vehicles\\Index.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\vehicles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\vehicles\\Index.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\vehicles\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:13:09.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Details.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\insurance_policies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Details.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\insurance_policies\\Details.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAB8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:14:18.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "vehiclesController.cs",
               "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\vehiclesController.cs",
               "RelativeDocumentMoniker": "InsuranceTrancking\\Controllers\\vehiclesController.cs",
@@ -413,12 +531,11 @@
               "RelativeToolTip": "InsuranceTrancking\\Controllers\\vehiclesController.cs",
               "ViewState": "AQIAAFQAAAAAAAAAAAAQwGYAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T18:47:13.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T18:47:13.435Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\vehicles\\Details.cshtml",
               "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\vehicles\\Details.cshtml",
@@ -426,12 +543,11 @@
               "RelativeToolTip": "InsuranceTrancking\\Views\\vehicles\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T17:14:25.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T17:14:25.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\accident_reports\\Delete.cshtml",
               "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\accident_reports\\Delete.cshtml",
@@ -439,12 +555,11 @@
               "RelativeToolTip": "InsuranceTrancking\\Views\\accident_reports\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T17:17:37.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T17:17:37.823Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\customers\\Delete.cshtml",
               "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\customers\\Delete.cshtml",
@@ -452,12 +567,11 @@
               "RelativeToolTip": "InsuranceTrancking\\Views\\customers\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T17:20:27.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T17:20:27.998Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Delete.cshtml",
               "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\insurance_policies\\Delete.cshtml",
@@ -465,12 +579,11 @@
               "RelativeToolTip": "InsuranceTrancking\\Views\\insurance_policies\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T17:21:11.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T17:21:11.235Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\vehicles\\Delete.cshtml",
               "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\vehicles\\Delete.cshtml",
@@ -478,12 +591,11 @@
               "RelativeToolTip": "InsuranceTrancking\\Views\\vehicles\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T17:21:17.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T17:21:17.157Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\customers\\Details.cshtml",
               "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\customers\\Details.cshtml",
@@ -491,12 +603,11 @@
               "RelativeToolTip": "InsuranceTrancking\\Views\\customers\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T17:14:12.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T17:14:12.851Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 31,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\accident_reports\\Details.cshtml",
               "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\accident_reports\\Details.cshtml",
@@ -504,12 +615,11 @@
               "RelativeToolTip": "InsuranceTrancking\\Views\\accident_reports\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T17:14:02.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T17:14:02.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\accident_reports\\Index.cshtml",
               "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\accident_reports\\Index.cshtml",
@@ -517,12 +627,11 @@
               "RelativeToolTip": "InsuranceTrancking\\Views\\accident_reports\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T17:13:22.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T17:13:22.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 36,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Views\\customers\\Index.cshtml",
               "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\customers\\Index.cshtml",
@@ -530,12 +639,11 @@
               "RelativeToolTip": "InsuranceTrancking\\Views\\customers\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T17:12:19.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T17:12:19.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 38,
               "Title": "bootstrap.css",
               "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Content\\bootstrap.css",
               "RelativeDocumentMoniker": "InsuranceTrancking\\Content\\bootstrap.css",
@@ -543,12 +651,11 @@
               "RelativeToolTip": "InsuranceTrancking\\Content\\bootstrap.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-28T17:11:51.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T17:11:51.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 37,
               "Title": "Layout.css",
               "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Content\\Layout.css",
               "RelativeDocumentMoniker": "InsuranceTrancking\\Content\\Layout.css",
@@ -556,12 +663,11 @@
               "RelativeToolTip": "InsuranceTrancking\\Content\\Layout.css",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-28T17:05:08.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T17:05:08.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 39,
               "Title": "Homepage.css",
               "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Content\\Homepage.css",
               "RelativeDocumentMoniker": "InsuranceTrancking\\Content\\Homepage.css",
@@ -569,38 +675,11 @@
               "RelativeToolTip": "InsuranceTrancking\\Content\\Homepage.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-28T17:03:28.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T17:03:28.783Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "accident_reportsController.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\accident_reportsController.cs",
-              "RelativeDocumentMoniker": "InsuranceTrancking\\Controllers\\accident_reportsController.cs",
-              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\accident_reportsController.cs",
-              "RelativeToolTip": "InsuranceTrancking\\Controllers\\accident_reportsController.cs",
-              "ViewState": "AQIAAHMAAAAAAAAAAAAwwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T16:50:42.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "customersController.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\customersController.cs",
-              "RelativeDocumentMoniker": "InsuranceTrancking\\Controllers\\customersController.cs",
-              "ToolTip": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\customersController.cs",
-              "RelativeToolTip": "InsuranceTrancking\\Controllers\\customersController.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAwwFgAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T22:27:03.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 40,
               "Title": "customers.cs",
               "DocumentMoniker": "C:\\Users\\talha\\source\\repos\\InsuranceTrancking\\InsuranceTrancking\\Models\\customers.cs",
               "RelativeDocumentMoniker": "InsuranceTrancking\\Models\\customers.cs",
@@ -608,13 +687,12 @@
               "RelativeToolTip": "InsuranceTrancking\\Models\\customers.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAYwDEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T23:37:32.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T23:37:32.891Z"
             }
           ]
         },
         {
-          "DockedHeight": 17,
+          "DockedHeight": 61,
           "SelectedChildIndex": -1,
           "Children": [
             {

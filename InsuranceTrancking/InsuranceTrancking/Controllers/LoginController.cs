@@ -34,16 +34,17 @@ namespace InsuranceTrancking.Controllers
             }
             else
             {
+                Session["UserEmail"] = admin.mail; // Store user email or ID
                 return RedirectToAction("Index", "Home");
-
-
-                
-                //TempData["AlertMessage"] = "you are not admin";
-                return View();
             }
 
 
             
+        }
+        public ActionResult Logout()
+        {
+            Session.Clear(); // Clear all session data
+            return RedirectToAction("Loginpage", "Login"); // Redirect to login page
         }
     }
 }
