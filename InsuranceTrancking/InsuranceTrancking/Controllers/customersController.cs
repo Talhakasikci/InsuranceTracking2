@@ -39,6 +39,7 @@ namespace InsuranceTrancking.Controllers
         
         public ActionResult Create()
         {
+            ViewBag.InsuranceCompanyID = db.insurance_companies.ToList() ?? new List<InsuranceTrancking.Models.insurance_companies>();
             return View();
         }
 
@@ -55,7 +56,7 @@ namespace InsuranceTrancking.Controllers
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
-
+            ViewBag.InsuranceCompanyID = db.insurance_companies.ToList() ?? new List<InsuranceTrancking.Models.insurance_companies>();
             return View(customers);
         }
         //public ActionResult CreateWithVehicle()
@@ -95,7 +96,7 @@ namespace InsuranceTrancking.Controllers
             }
             ModelState.AddModelError("", "Please fill in all required fields.");
 
-
+            ViewBag.InsuranceCompanyID = db.insurance_companies.ToList() ?? new List<InsuranceTrancking.Models.insurance_companies>();
             return View(customer);  // If model is invalid, return the view
         }
 

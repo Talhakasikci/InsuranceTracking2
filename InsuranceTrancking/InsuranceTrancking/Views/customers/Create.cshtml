@@ -77,11 +77,25 @@
                 <input type="text" id="CoverageType" name="insurance_policies.CoverageType" class="form-control" required />
                 <div class="invalid-feedback">Please provide a Coverage Type.</div>
             </div>
+
             <div class="mb-3">
+                <label for="InsuranceCompanyID" class="form-label">Insurance CompanyID ID</label>
+                <select id="InsuranceCompanyID" name="InsuranceCompanyID" class="form-select" required>
+                    @foreach (var insurance_company in (ViewBag.InsuranceCompanyID as List<InsuranceTrancking.Models.insurance_companies> ?? new List<InsuranceTrancking.Models.insurance_companies>()))
+                    {
+                        <option value="@insurance_company.CompanyID" data-customer="@insurance_company.CompanyID">
+                            @insurance_company.CompanyName
+                        </option>
+                    }
+                </select>
+                <div class="invalid-feedback">Please select a valid Vehicle ID.</div>
+            </div>
+
+            @*<div class="mb-3">
                 <label for="InsuranceCompanyID" class="form-label">Insurance Company ID</label>
                 <input type="number" id="Insurance Company ID" name="insurance_policies.InsuranceCompanyID" class="form-control" required />
                 <div class="invalid-feedback">Please provide a Insurance Company ID.</div>
-            </div>
+            </div>*@
             <div class="mb-3">
                 <label for="StartDate" class="form-label">Policy Start Date</label>
                 <input type="date" id="StartDate" name="insurance_policies.StartDate" class="form-control" required />
