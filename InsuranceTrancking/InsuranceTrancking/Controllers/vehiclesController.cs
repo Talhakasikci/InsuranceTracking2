@@ -39,12 +39,16 @@ namespace InsuranceTrancking.Controllers
         // GET: vehicles/Create
         public ActionResult Create()
         {
+<<<<<<< Updated upstream
 
             ViewBag.Customers = db.customers.ToList() ?? new List<InsuranceTrancking.Models.customers>();
             return View();
 
             ViewBag.Customers = db.customers.ToList() ?? new List<InsuranceTrancking.Models.customers>(); return View();
 
+=======
+            ViewBag.Customers = db.customers.ToList() ?? new List<InsuranceTrancking.Models.customers>(); return View();
+>>>>>>> Stashed changes
         }
 
         // POST: vehicles/Create

@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\ibrah\\desktop\\insurancetracking2\\insurancetrancking\\insurancetrancking\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -53,20 +54,28 @@
     {
       "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+=======
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+>>>>>>> Stashed changes
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+=======
+>>>>>>> Stashed changes
       "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\views\\login\\loginpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\login\\loginpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -135,10 +144,159 @@
       "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\accident_reports\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+=======
+>>>>>>> Stashed changes
       "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+<<<<<<< Updated upstream
+=======
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\ibrah\\desktop\\insurancetracking2\\insurancetrancking\\insurancetrancking\\controllers\\mcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\controllers\\mcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\ibrah\\desktop\\insurancetracking2\\insurancetrancking\\insurancetrancking\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\controllers\\insurance_policiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\controllers\\insurance_policiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\ibrah\\desktop\\insurancetracking2\\insurancetrancking\\insurancetrancking\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\controllers\\accident_reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\controllers\\accident_reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|c:\\users\\ibrah\\desktop\\insurancetracking2\\insurancetrancking\\insurancetrancking\\views\\accident_reports\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\accident_reports\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\models\\accident_reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\models\\accident_reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\models\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\models\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\models\\repair_shops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\models\\repair_shops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\models\\insurance_policies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\models\\insurance_policies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\models\\insurance_companies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\models\\insurance_companies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\views\\insurance_policies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\insurance_policies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\views\\vehicles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\vehicles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\views\\insurance_policies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\insurance_policies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\views\\accident_reports\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\accident_reports\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\views\\vehicles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\vehicles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\views\\insurance_policies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\insurance_policies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\views\\vehicles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\vehicles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\views\\insurance_policies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\insurance_policies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\views\\vehicles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\vehicles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\views\\accident_reports\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\accident_reports\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\views\\accident_reports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\accident_reports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\views\\vehicles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\vehicles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\views\\insurance_policies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\insurance_policies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\views\\accident_reports\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\views\\accident_reports\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+>>>>>>> Stashed changes
       "AbsoluteMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\insurancetrancking\\content\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{8A0C50FC-78D1-44A6-98D0-DB3BE01C9C0E}|InsuranceTrancking\\InsuranceTrancking.csproj|solutionrelative:insurancetrancking\\content\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -161,8 +319,13 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
+<<<<<<< Updated upstream
           "DockedHeight": 383,
           "SelectedChildIndex": 2,
+=======
+          "DockedHeight": 339,
+          "SelectedChildIndex": 7,
+>>>>>>> Stashed changes
           "Children": [
             {
               "$type": "Bookmark",
@@ -174,6 +337,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 0,
               "Title": "vehiclesController.cs",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\vehiclesController.cs",
@@ -287,23 +451,41 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-29T16:23:34.936Z",
+=======
+              "DocumentIndex": 4,
+              "Title": "MController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\MController.cs",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Controllers\\MController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\MController.cs",
+              "RelativeToolTip": "InsuranceTrancking\\Controllers\\MController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:18:06.167Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "insurance_policiesController.cs",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\insurance_policiesController.cs",
               "RelativeDocumentMoniker": "InsuranceTrancking\\Controllers\\insurance_policiesController.cs",
               "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\insurance_policiesController.cs",
               "RelativeToolTip": "InsuranceTrancking\\Controllers\\insurance_policiesController.cs",
+<<<<<<< Updated upstream
               "ViewState": "AgIAAD0AAAAAAAAAAAAkwFEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-29T16:23:34.936Z",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:24:30.059Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 9,
               "Title": "Model1.cs",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Models\\Model1.cs",
@@ -313,10 +495,87 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-29T16:23:34.936Z",
+=======
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\customers\\Index.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\customers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:12:19.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Loginpage.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\Login\\Loginpage.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\Login\\Loginpage.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\Login\\Loginpage.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\Login\\Loginpage.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T19:03:27.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T19:22:23.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:05:48.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "InsuranceTrancking\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA/wCAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T19:03:11.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Web.config",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Web.config",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Web.config",
+              "RelativeToolTip": "InsuranceTrancking\\Web.config",
+              "ViewState": "AgIAADgAAAAAAAAAAAAmwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-28T19:28:27.801Z",
+>>>>>>> Stashed changes
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 21,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\accident_reports\\Edit.cshtml",
@@ -352,10 +611,22 @@
               "ViewState": "AgIAAAoAAAAAAAAAAAAiwC8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-29T16:23:34.936Z",
+=======
+              "DocumentIndex": 8,
+              "Title": "vehiclesController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\vehiclesController.cs",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Controllers\\vehiclesController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\vehiclesController.cs",
+              "RelativeToolTip": "InsuranceTrancking\\Controllers\\vehiclesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T18:47:13.435Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 13,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\Shared\\Error.cshtml",
@@ -365,10 +636,22 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-29T16:23:34.951Z",
+=======
+              "DocumentIndex": 7,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "InsuranceTrancking\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:24:21.573Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 11,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\Web.config",
@@ -378,11 +661,23 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-12-29T16:23:34.951Z",
+=======
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "InsuranceTrancking\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:19:01.533Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+<<<<<<< Updated upstream
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Web.config",
               "RelativeDocumentMoniker": "InsuranceTrancking\\Web.config",
@@ -391,11 +686,61 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-12-29T16:23:34.951Z",
+=======
+              "Title": "accident_reportsController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\accident_reportsController.cs",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Controllers\\accident_reportsController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\accident_reportsController.cs",
+              "RelativeToolTip": "InsuranceTrancking\\Controllers\\accident_reportsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T16:50:42.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "customersController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\customersController.cs",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Controllers\\customersController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Controllers\\customersController.cs",
+              "RelativeToolTip": "InsuranceTrancking\\Controllers\\customersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:27:03.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Models\\Model1.cs",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Models\\Model1.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Models\\Model1.cs",
+              "RelativeToolTip": "InsuranceTrancking\\Models\\Model1.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAuwI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T16:51:14.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "vehicles.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Models\\vehicles.cs",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Models\\vehicles.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Models\\vehicles.cs",
+              "RelativeToolTip": "InsuranceTrancking\\Models\\vehicles.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:32:00.047Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
+<<<<<<< Updated upstream
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\customers\\Edit.cshtml",
               "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\customers\\Edit.cshtml",
@@ -404,11 +749,48 @@
               "ViewState": "AgIAABkAAAAAAAAAAAAIwEAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-29T16:23:34.953Z",
+=======
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Create.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\insurance_policies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Create.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\insurance_policies\\Create.cshtml",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAIwIsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:33:19.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\accident_reports\\Create.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\accident_reports\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\accident_reports\\Create.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\accident_reports\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:17:36.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "insurance_policies.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Models\\insurance_policies.cs",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Models\\insurance_policies.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Models\\insurance_policies.cs",
+              "RelativeToolTip": "InsuranceTrancking\\Models\\insurance_policies.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAnwBIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:24:22.694Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
+<<<<<<< Updated upstream
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Edit.cshtml",
               "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\insurance_policies\\Edit.cshtml",
@@ -417,11 +799,35 @@
               "ViewState": "AgIAAD4AAAAAAAAAAAAIwGcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-29T16:23:34.953Z",
+=======
+              "Title": "insurance_companies.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Models\\insurance_companies.cs",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Models\\insurance_companies.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Models\\insurance_companies.cs",
+              "RelativeToolTip": "InsuranceTrancking\\Models\\insurance_companies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T20:15:19.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "accident_reports.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Models\\accident_reports.cs",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Models\\accident_reports.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Models\\accident_reports.cs",
+              "RelativeToolTip": "InsuranceTrancking\\Models\\accident_reports.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T19:46:56.406Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+<<<<<<< Updated upstream
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\Home\\Index.cshtml",
@@ -482,10 +888,21 @@
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-29T16:23:34.955Z",
+=======
+              "Title": "repair_shops.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Models\\repair_shops.cs",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Models\\repair_shops.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Models\\repair_shops.cs",
+              "RelativeToolTip": "InsuranceTrancking\\Models\\repair_shops.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T20:15:28.407Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 24,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Details.cshtml",
@@ -521,11 +938,23 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-29T16:23:34.957Z",
+=======
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\customers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\customers\\Create.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\customers\\Create.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwHMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T19:04:37.674Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
+<<<<<<< Updated upstream
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\customers\\Delete.cshtml",
               "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\customers\\Delete.cshtml",
@@ -547,10 +976,86 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-29T16:23:34.959Z",
+=======
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\accident_reports\\Edit.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\accident_reports\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\accident_reports\\Edit.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\accident_reports\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:13:38.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\Web.config",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\Web.config",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-28T19:27:49.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\customers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\customers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\customers\\Edit.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\customers\\Edit.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwEAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:12:15.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\insurance_policies\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Edit.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\insurance_policies\\Edit.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwGcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:33:10.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\vehicles\\Create.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\vehicles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\vehicles\\Create.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\vehicles\\Create.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:33:56.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:04:28.904Z",
+>>>>>>> Stashed changes
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 30,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\vehicles\\Delete.cshtml",
@@ -586,12 +1091,24 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-29T16:23:34.959Z",
+=======
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\vehicles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\vehicles\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\vehicles\\Edit.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\vehicles\\Edit.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:09:30.61Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "Index.cshtml",
+<<<<<<< Updated upstream
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\accident_reports\\Index.cshtml",
               "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\accident_reports\\Index.cshtml",
               "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\accident_reports\\Index.cshtml",
@@ -599,10 +1116,59 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-29T16:23:34.961Z",
+=======
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Index.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\insurance_policies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Index.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\insurance_policies\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:12:55.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\vehicles\\Index.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\vehicles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\vehicles\\Index.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\vehicles\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:13:09.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Details.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\insurance_policies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Details.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\insurance_policies\\Details.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:14:18.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\vehicles\\Details.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\vehicles\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\vehicles\\Details.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\vehicles\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:14:25.948Z",
+>>>>>>> Stashed changes
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 33,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\customers\\Index.cshtml",
@@ -625,11 +1191,23 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-12-29T16:23:34.961Z",
+=======
+              "DocumentIndex": 39,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\accident_reports\\Delete.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\accident_reports\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\accident_reports\\Delete.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\accident_reports\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:17:37.823Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
+<<<<<<< Updated upstream
               "Title": "Layout.css",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Content\\Layout.css",
               "RelativeDocumentMoniker": "InsuranceTrancking\\Content\\Layout.css",
@@ -638,11 +1216,74 @@
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-12-29T16:23:34.961Z",
+=======
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\customers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\customers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\customers\\Delete.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\customers\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:20:27.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Delete.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\insurance_policies\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\insurance_policies\\Delete.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\insurance_policies\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:21:11.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\vehicles\\Delete.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\vehicles\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\vehicles\\Delete.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\vehicles\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:21:17.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\customers\\Details.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\customers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\customers\\Details.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\customers\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:14:12.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\accident_reports\\Details.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\accident_reports\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\accident_reports\\Details.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\accident_reports\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:14:02.562Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 36,
+<<<<<<< Updated upstream
               "Title": "Homepage.css",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Content\\Homepage.css",
               "RelativeDocumentMoniker": "InsuranceTrancking\\Content\\Homepage.css",
@@ -651,11 +1292,64 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-12-29T16:23:34.963Z",
+=======
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\accident_reports\\Index.cshtml",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Views\\accident_reports\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Views\\accident_reports\\Index.cshtml",
+              "RelativeToolTip": "InsuranceTrancking\\Views\\accident_reports\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T17:13:22.052Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Content\\bootstrap.css",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Content\\bootstrap.css",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Content\\bootstrap.css",
+              "RelativeToolTip": "InsuranceTrancking\\Content\\bootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-28T17:11:51.042Z",
+>>>>>>> Stashed changes
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 37,
+=======
+              "DocumentIndex": 40,
+              "Title": "Layout.css",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Content\\Layout.css",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Content\\Layout.css",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Content\\Layout.css",
+              "RelativeToolTip": "InsuranceTrancking\\Content\\Layout.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-28T17:05:08.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Homepage.css",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Content\\Homepage.css",
+              "RelativeDocumentMoniker": "InsuranceTrancking\\Content\\Homepage.css",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Content\\Homepage.css",
+              "RelativeToolTip": "InsuranceTrancking\\Content\\Homepage.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-28T17:03:28.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+>>>>>>> Stashed changes
               "Title": "customers.cs",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\InsuranceTracking2\\InsuranceTrancking\\InsuranceTrancking\\Models\\customers.cs",
               "RelativeDocumentMoniker": "InsuranceTrancking\\Models\\customers.cs",
@@ -663,7 +1357,11 @@
               "RelativeToolTip": "InsuranceTrancking\\Models\\customers.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAYwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< Updated upstream
               "WhenOpened": "2024-12-29T16:23:34.963Z",
+=======
+              "WhenOpened": "2024-12-23T23:37:32.891Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             }
           ]
