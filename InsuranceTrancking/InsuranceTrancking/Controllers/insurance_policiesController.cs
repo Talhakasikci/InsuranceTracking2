@@ -10,7 +10,7 @@ using InsuranceTrancking.Models;
 
 namespace InsuranceTrancking.Controllers
 {
-    public class insurance_policiesController : Controller
+    public class insurance_policiesController : MController
     {
         private Model1 db = new Model1();
 

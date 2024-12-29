@@ -6,7 +6,7 @@ using System.Web.Mvc;
 
 namespace InsuranceTrancking.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : MController
     {
         public ActionResult Index()
         {

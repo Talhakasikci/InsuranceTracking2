@@ -9,7 +9,7 @@ using System.Web.Mvc;
 
 namespace InsuranceTrancking.Controllers
 {
-    public class customersController : Controller
+    public class customersController : MController
     {
         private Model1 db = new Model1();
 

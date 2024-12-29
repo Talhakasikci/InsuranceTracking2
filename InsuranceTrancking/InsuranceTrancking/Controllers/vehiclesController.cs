@@ -10,7 +10,7 @@ using InsuranceTrancking.Models;
 
 namespace InsuranceTrancking.Controllers
 {
-    public class vehiclesController : Controller
+    public class vehiclesController : MController
     {
         private Model1 db = new Model1();
 
@@ -39,8 +39,12 @@ namespace InsuranceTrancking.Controllers
         // GET: vehicles/Create
         public ActionResult Create()
         {
+
             ViewBag.Customers = db.customers.ToList() ?? new List<InsuranceTrancking.Models.customers>();
             return View();
+
+            ViewBag.Customers = db.customers.ToList() ?? new List<InsuranceTrancking.Models.customers>(); return View();
+
         }
 
         // POST: vehicles/Create
@@ -72,7 +76,7 @@ namespace InsuranceTrancking.Controllers
         }
 
         // GET: vehicles/Edit/5
-        public ActionResult Edit(int id)
+        public ActionResult Edit(int? id)
         {
             if (id == null)
             {
