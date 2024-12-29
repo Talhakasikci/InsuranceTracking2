@@ -48,7 +48,7 @@ namespace InsuranceTrancking.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         
-        public ActionResult Create([Bind(Include = "CustomerID,FirstName,LastName,PhoneNumber,Email,Address,IsAdmin")] customers customers)
+        public ActionResult Create([Bind(Include = "CustomerID,FirstName,LastName,PhoneNumber,Email,Address")] customers customers)
         {
             if (ModelState.IsValid)
             {
@@ -123,7 +123,7 @@ namespace InsuranceTrancking.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
 
-        public ActionResult Edit([Bind(Include = "CustomerID,FirstName,LastName,PhoneNumber,Email,Address,IsAdmin")] customers customers)
+        public ActionResult Edit([Bind(Include = "CustomerID,FirstName,LastName,PhoneNumber,Email,Address")] customers customers)
         {
             if (ModelState.IsValid)
             {

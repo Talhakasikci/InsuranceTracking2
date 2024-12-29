@@ -35,7 +35,6 @@ namespace InsuranceTrancking.Models
         [StringLength(500)]
         public string Address { get; set; }
 
-        public bool IsAdmin { get; set; }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<driving_license> driving_license { get; set; }

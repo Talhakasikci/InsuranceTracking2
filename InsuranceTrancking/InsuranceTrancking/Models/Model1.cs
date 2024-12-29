@@ -49,10 +49,7 @@ namespace InsuranceTrancking.Models
             modelBuilder.Entity<customers>()
                 .Property(e => e.Address)
                 .IsUnicode(false);
-            modelBuilder.Entity<customers>()
-                .Property(e => e.IsAdmin)
-                .HasColumnType("BIT") 
-                .IsRequired();
+       
             modelBuilder.Entity<adminPanels>()
                .Property(e => e.Adminname)
                .IsUnicode(false);
